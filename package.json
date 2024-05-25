@@ -1,6 +1,6 @@
 {
   "name": "@zitterorg/fugiat-quia",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -25,7 +25,7 @@
     "@zitterorg/eum-veritatis-placeat": "^2.1.20",
     "@zitterorg/fluffy-waddle": "^2.7.22",
     "@zitterorg/glowing-barnacle": "^2.3.22",
-    "@zitterorg/illum-perferendis-consectetur": "^2.2.19",
+    "@zitterorg/illum-perferendis-consectetur": "^2.2.20",
     "@zitterorg/impedit-ex-praesentium": "^2.2.19",
     "@zitterorg/inventore-at-sit": "^3.1.19",
     "@zitterorg/itaque-nisi-veritatis": "^2.3.18",
